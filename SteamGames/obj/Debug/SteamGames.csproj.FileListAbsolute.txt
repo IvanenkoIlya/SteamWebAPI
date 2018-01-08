@@ -1,6 +1,0 @@
-d:\documents\visual studio 2017\Projects\SteamGames\SteamGames\bin\Debug\SteamGames.exe.config
-d:\documents\visual studio 2017\Projects\SteamGames\SteamGames\bin\Debug\SteamGames.exe
-d:\documents\visual studio 2017\Projects\SteamGames\SteamGames\bin\Debug\SteamGames.pdb
-d:\documents\visual studio 2017\Projects\SteamGames\SteamGames\obj\Debug\SteamGames.csprojResolveAssemblyReference.cache
-d:\documents\visual studio 2017\Projects\SteamGames\SteamGames\obj\Debug\SteamGames.exe
-d:\documents\visual studio 2017\Projects\SteamGames\SteamGames\obj\Debug\SteamGames.pdb
